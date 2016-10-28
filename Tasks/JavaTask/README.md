@@ -1,7 +1,7 @@
 # Task
 ===========
 
-Using this play template create cliean application which send some
+Using this play template create/fix application which send some
 GET query to the server and get info on the screen.
 
 server address: 127.0.0.1/task/info
